@@ -1,2 +1,2 @@
 # EDMaker
-Build an EDM music generator with LSTM model
+Build an EDM music generator with LSTM models
